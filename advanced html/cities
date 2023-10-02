@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img src="../Blouses.jpg" alt="width=200 height=200">
+    <img src="../pants.jpg"alt=""srcset="width=200 height=200">
+    <img src="../shirts.jpg"alt=""srcset="width=100 height=100">
+    <img src="../trousers.jpg"alt=""srcset="width=200 height=200"><br>
+    <img src="../ skirts.jpg"alt=""srcset="width=100 height=100">
+    <video width= 320 height="240" controls><source src="../images/=2 copy.mp4" types="video/mp4"><source>
+    <a href="../index.html"> back to iIndex</a>
